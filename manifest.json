@@ -1,0 +1,331 @@
+{
+  "minecraft_version": "1.21.1",
+  "neoforge_version": "21.1.224",
+  "mods": [
+    {
+      "file": "appleskin-neoforge-mc1.21-3.0.9.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/appleskin-neoforge-mc1.21-3.0.9.jar",
+      "sha1": "81cf0e668f991f83ac8820c386fbd6c9c3602246"
+    },
+    {
+      "file": "architectury-13.0.8-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/architectury-13.0.8-neoforge.jar",
+      "sha1": "6ca11d3cc136bf69bb8f4d56982481eb85b5100b"
+    },
+    {
+      "file": "athena-neoforge-1.21-4.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/athena-neoforge-1.21-4.0.2.jar",
+      "sha1": "069f397f1b3a30b3d5f5a98cac76304dfe345d76"
+    },
+    {
+      "file": "baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/baguettelib-1.21.1-NeoForge-2.0.3.jar",
+      "sha1": "e01709c880b0602b7a306201a25866e76c44f5c0"
+    },
+    {
+      "file": "bettercombat-neoforge-2.3.2+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/bettercombat-neoforge-2.3.2+1.21.1.jar",
+      "sha1": "f752fbbf81027948ef4ab0fc0066260ccf574179"
+    },
+    {
+      "file": "biolith-neoforge-3.0.10.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/biolith-neoforge-3.0.10.jar",
+      "sha1": "e04f50b55f1a917956a038c10066118264e4e170"
+    },
+    {
+      "file": "bk-1.0.0-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/bk-1.0.0-neoforge-1.21.1.jar",
+      "sha1": "3bd969475fd49b35745164206771a2bcb8a7fb67"
+    },
+    {
+      "file": "camping-neoforge-1.21.1-2.1.4.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/camping-neoforge-1.21.1-2.1.4.jar",
+      "sha1": "408be14c08575d5dd45a1725917d58fbc1726b2c"
+    },
+    {
+      "file": "Chunky-NeoForge-1.4.23.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Chunky-NeoForge-1.4.23.jar",
+      "sha1": "ab0c74743a653020fe2dfc4986b43e893947f3e9"
+    },
+    {
+      "file": "ChunkyBorder-1.2.18.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/ChunkyBorder-1.2.18.jar",
+      "sha1": "b1c53d6e13100658d4dc2b2e33a650162748c4ea"
+    },
+    {
+      "file": "cloth-config-15.0.140-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/cloth-config-15.0.140-neoforge.jar",
+      "sha1": "c3e5733ba4503b102589a026000fd5ce0212f6f2"
+    },
+    {
+      "file": "Controlling-neoforge-1.21.1-19.0.5.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Controlling-neoforge-1.21.1-19.0.5.jar",
+      "sha1": "8a34424fc1428778be2fdbfa4da67b21b70bcbfe"
+    },
+    {
+      "file": "corpse-neoforge-1.21.1-1.1.13.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/corpse-neoforge-1.21.1-1.1.13.jar",
+      "sha1": "4f42091ef36e98e99c2f28a273ded960c0ac08bd"
+    },
+    {
+      "file": "corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/corpsecurioscompat-1.21.1-NeoForge-3.1.3.jar",
+      "sha1": "2aa5e83940a26c6e529e58a3a8a0260df3078c6d"
+    },
+    {
+      "file": "curios-neoforge-9.5.1+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/curios-neoforge-9.5.1+1.21.1.jar",
+      "sha1": "418fcd42e3a7844c9bdc71c9b6401fdb3894e0c4"
+    },
+    {
+      "file": "dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/dynamic-fps-3.11.4+minecraft-1.21.0-neoforge.jar",
+      "sha1": "35b17e95b2b65930116ccc83e0cc358ac1bfcf9e"
+    },
+    {
+      "file": "emi-1.1.22+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/emi-1.1.22+1.21.1+neoforge.jar",
+      "sha1": "cbbd038194cd63249db185c53b1d50a1767f80a3"
+    },
+    {
+      "file": "emi-letsdo-compat-2.0.1+1.21.1+neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/emi-letsdo-compat-2.0.1+1.21.1+neoforge.jar",
+      "sha1": "45771f82ee90c2428091fbfd407115853df1a712"
+    },
+    {
+      "file": "entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/entityculling-neoforge-1.10.1-mc1.21.1.jar",
+      "sha1": "68759da313caf8990bcd5d961bc691fa85fa3f0e"
+    },
+    {
+      "file": "ferritecore-7.0.3-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/ferritecore-7.0.3-neoforge.jar",
+      "sha1": "9563692efb708b6b568df27a01ec52f6311928ef"
+    },
+    {
+      "file": "forgematica-0.4.1+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/forgematica-0.4.1+mc1.21.1.jar",
+      "sha1": "5ef9d8fd67791217a10f3243ed66764e254cd470"
+    },
+    {
+      "file": "geckolib-neoforge-1.21.1-4.8.4.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/geckolib-neoforge-1.21.1-4.8.4.jar",
+      "sha1": "eb854c8ec53ef922a5f3877a1aa4c1ce1352e0ce"
+    },
+    {
+      "file": "ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/ImmediatelyFast-NeoForge-1.6.10+1.21.1.jar",
+      "sha1": "f1f5cccd7cb59d875f44566b2e557ccecc8c33fb"
+    },
+    {
+      "file": "iris-neoforge-1.8.12+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/iris-neoforge-1.8.12+mc1.21.1.jar",
+      "sha1": "a3e6355915c7d3b2bc392724795113e51d289378"
+    },
+    {
+      "file": "Jade-1.21.1-NeoForge-15.10.5.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Jade-1.21.1-NeoForge-15.10.5.jar",
+      "sha1": "d5bf134b3dbde9f5258666823900e21341dc0a50"
+    },
+    {
+      "file": "journeymap-neoforge-1.21.1-6.0.0-beta.63.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/journeymap-neoforge-1.21.1-6.0.0-beta.63.jar",
+      "sha1": "89c04bea5f5ca901b7cfa5ccc559138dd0709655"
+    },
+    {
+      "file": "kubejs-neoforge-2101.7.2-build.348.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/kubejs-neoforge-2101.7.2-build.348.jar",
+      "sha1": "75f96b2e4157c0efdbfd9f6271d080fb6921aaf4"
+    },
+    {
+      "file": "kubejs_oritech-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/kubejs_oritech-1.0.0.jar",
+      "sha1": "7476d7743817518ca907dc68a4c3df86ac33af5e"
+    },
+    {
+      "file": "letsdo-bakery-neoforge-2.1.6.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-bakery-neoforge-2.1.6.jar",
+      "sha1": "1784df19be895a8aeff5c3b51675a04b7e1fb254"
+    },
+    {
+      "file": "letsdo-beachparty-neoforge-2.1.4.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-beachparty-neoforge-2.1.4.jar",
+      "sha1": "c5f5eb74017f2e3cc22120419efcd27a898ed4f3"
+    },
+    {
+      "file": "letsdo-bloomingnature-neoforge-1.1.10.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-bloomingnature-neoforge-1.1.10.jar",
+      "sha1": "4c161f19d06d5eba52f8ad212fe7fd7c1fcc2c8b"
+    },
+    {
+      "file": "letsdo-brewery-neoforge-2.1.9.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-brewery-neoforge-2.1.9.jar",
+      "sha1": "3748fdb69cbb5abfc419ec873dc3bf142f0072d0"
+    },
+    {
+      "file": "letsdo-candlelight-neoforge-2.1.12.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-candlelight-neoforge-2.1.12.jar",
+      "sha1": "2978e85e0658089cf8b992a8f14573070c814094"
+    },
+    {
+      "file": "letsdo-farm_and_charm-neoforge-1.1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-farm_and_charm-neoforge-1.1.21.jar",
+      "sha1": "a8f001fad9be0ce86cff97d6fc3bb4af652abba9"
+    },
+    {
+      "file": "letsdo-furniture-neoforge-1.1.4.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-furniture-neoforge-1.1.4.jar",
+      "sha1": "fabc5aa1b2b354dae2338254a2fd0ff747944253"
+    },
+    {
+      "file": "letsdo-hearth_and_timber-neoforge-1.0.3.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-hearth_and_timber-neoforge-1.0.3.jar",
+      "sha1": "98116f4b15c912d57d51886f9bd7470ad7d397da"
+    },
+    {
+      "file": "letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-herbalbrews-neoforge-1.1.3.jar",
+      "sha1": "7e91a29bdbc696dfae7af7bc47bce7a7f773a7b1"
+    },
+    {
+      "file": "letsdo-lilis_lucky_lures-neoforge-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-lilis_lucky_lures-neoforge-1.1.3.jar",
+      "sha1": "e10609e98c57b7ed1fa77e62a8e9fc99ce4a8fac"
+    },
+    {
+      "file": "letsdo-lilis_pottery-neoforge-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-lilis_pottery-neoforge-1.0.2.jar",
+      "sha1": "4ae315d10db928ac4a261e3a87a3102c04435f88"
+    },
+    {
+      "file": "letsdo-meadow-neoforge-1.4.8.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-meadow-neoforge-1.4.8.jar",
+      "sha1": "a203a4b5180a55a3c97d32acf6299579ea45ad9f"
+    },
+    {
+      "file": "letsdo-vinery-neoforge-1.5.3.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-vinery-neoforge-1.5.3.jar",
+      "sha1": "e920dbb720c2c010c45b137d195a5cc72a9afdd2"
+    },
+    {
+      "file": "letsdo-wildernature-neoforge-1.1.3.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/letsdo-wildernature-neoforge-1.1.3.jar",
+      "sha1": "fadf6d8183fa583ed6c262bc8bf84fbd905c98c0"
+    },
+    {
+      "file": "lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/lithium-neoforge-0.15.3+mc1.21.1.jar",
+      "sha1": "9fd5fa9076044180ae7f51672de74669196ec72e"
+    },
+    {
+      "file": "mafglib-0.4.3+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/mafglib-0.4.3+mc1.21.1.jar",
+      "sha1": "9f62df832b1d5c9fe1aead873bd65cb8defacac7"
+    },
+    {
+      "file": "marbledsfirstaid-1.21.1neo-1.2.0.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/marbledsfirstaid-1.21.1neo-1.2.0.1.jar",
+      "sha1": "58a361ed6f933bd87de147b2ad2fd88513f989d9"
+    },
+    {
+      "file": "modernfix-neoforge-5.27.2+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/modernfix-neoforge-5.27.2+mc1.21.1.jar",
+      "sha1": "6a164013d692c209157d06e178bc43deb3e1d946"
+    },
+    {
+      "file": "MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/MouseTweaks-neoforge-mc1.21-2.26.1.jar",
+      "sha1": "6dae57f4f50f7808d2ed9a18f6cd1c0d4640c6bc"
+    },
+    {
+      "file": "oritech-neoforge-1.21.1-1.1.0.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/oritech-neoforge-1.21.1-1.1.0.jar",
+      "sha1": "fe04966ff230c307dd2ea2259f90468b77147e8d"
+    },
+    {
+      "file": "oritech_steel_tools-neoforge-1.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/oritech_steel_tools-neoforge-1.0.0.jar",
+      "sha1": "31870885af90ec617c87d7755b87bc61ee8e59de"
+    },
+    {
+      "file": "oritechthings-0.0.41.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/oritechthings-0.0.41.jar",
+      "sha1": "ad11df9a1e0b031e6f719432bea1ce9450c0a724"
+    },
+    {
+      "file": "owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/owo-lib-neoforge-0.12.15.5-beta.1+1.21.jar",
+      "sha1": "48dda11a6710591cf162bdbedf982ea21dd1f2ed"
+    },
+    {
+      "file": "player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/player-animation-lib-forge-2.0.4+1.21.1.jar",
+      "sha1": "05be8ddcc78532b9a5520c718edc6c971cd0057c"
+    },
+    {
+      "file": "polymorph-neoforge-1.1.0+1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/polymorph-neoforge-1.1.0+1.21.1.jar",
+      "sha1": "84f8c539fa326dc723ae62b7a6916d6b01982d07"
+    },
+    {
+      "file": "reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/reeses-sodium-options-neoforge-1.8.3+mc1.21.4.jar",
+      "sha1": "b03d05495be28d8cef7a34872941bb8d703d60e6"
+    },
+    {
+      "file": "rhino-2101.2.7-build.81.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/rhino-2101.2.7-build.81.jar",
+      "sha1": "5dcc80079095706645d567353095297948a41eea"
+    },
+    {
+      "file": "Searchables-neoforge-1.21.1-1.0.2.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Searchables-neoforge-1.21.1-1.0.2.jar",
+      "sha1": "5b8a0b43a474c066371b2e16f9bfb88622552a74"
+    },
+    {
+      "file": "sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/sodium-neoforge-0.6.13+mc1.21.1.jar",
+      "sha1": "38af70fa4dc4b2aaac636e92fdba3bedd5a025e1"
+    },
+    {
+      "file": "sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/sodiumdynamiclights-neoforge-1.0.10-1.21.1.jar",
+      "sha1": "02e9bc7ba28147cdf2d608ecf4f2c1eab34b4652"
+    },
+    {
+      "file": "sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/sodiumoptionsapi-neoforge-1.0.10-1.21.1.jar",
+      "sha1": "5d014d031fa77ab600e07835b032ef4dcb79b442"
+    },
+    {
+      "file": "spark-1.10.124-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/spark-1.10.124-neoforge.jar",
+      "sha1": "9430cc2ab64ff89d698be593769fb9f9ee4efae6"
+    },
+    {
+      "file": "superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/superbwarfare-1.21.1-0.8.8-final-0cfd00d5.jar",
+      "sha1": "154e5b39b4544c0ab7875413e4ec30ab54007390"
+    },
+    {
+      "file": "TFC-items-1.21.1-neoforge-1.2.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/TFC-items-1.21.1-neoforge-1.2.1.jar",
+      "sha1": "4969a56a3ea90a304f6a982e64a92f638aece978"
+    },
+    {
+      "file": "voicechat-neoforge-1.21.1-2.6.16.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/voicechat-neoforge-1.21.1-2.6.16.jar",
+      "sha1": "d813f78eeeb6a27e2529df098128a12e4c043dd8"
+    },
+    {
+      "file": "Voiceless Survival-1.21.1-neoforge-2.0.0.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Voiceless Survival-1.21.1-neoforge-2.0.0.jar",
+      "sha1": "47c1a2b5c62c585ae1689c10fc0bfee700314d19"
+    },
+    {
+      "file": "zrikons_military_armor-1.0.3-neoforge-1.21.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/zrikons_military_armor-1.0.3-neoforge-1.21.1.jar",
+      "sha1": "83d3792385bac2a85886a0097365b1736eef75fc"
+    }
+  ]
+}
