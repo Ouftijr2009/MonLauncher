@@ -133,8 +133,8 @@
       "sha1": "ff5f0411a3d82e15d69b65617128f6d54e818e1b"
     },
     {
-      "file": "DistantHorizons-3.2.0-b-1.21.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/DistantHorizons-3.2.0-b-1.21.1.jar",
+      "file": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
       "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec"
     },
     {
@@ -186,6 +186,11 @@
       "file": "petrolsparts-1.21.1-1.2.10.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/petrolsparts-1.21.1-1.2.10.jar",
       "sha1": "d228f81fb8d9f9501f0077bcbe6b62852eccf0a1"
+    },
+    {
+      "file": "pointblank-neoforge-1.21-1.11.1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/pointblank-neoforge-1.21-1.11.1.jar",
+      "sha1": "58570698e839acec1ad9a9778802dac8550d49ce"
     },
     {
       "file": "prone_was_pressed-1.0.0-neoforge-1.21.1.jar",
