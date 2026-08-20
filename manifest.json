@@ -213,14 +213,14 @@
       "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756"
     },
     {
-      "file": "skinrestorer-2.10.0+26.1-forge.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/skinrestorer-2.10.0+26.1-forge.jar",
-      "sha1": "af0f0c6820da9627778b26ac4cb9bbf318b2e39d"
+      "file": "skinrestorer-2.10.0+1.21-neoforge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/skinrestorer-2.10.0+1.21-neoforge.jar",
+      "sha1": "ea72bb25debbfc74b9486cb9d0fcb814ee5c6323"
     },
     {
-      "file": "superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar",
-      "sha1": "cd143b04ea8245243624c720ddd482c3aea0521e"
+      "file": "superbwarfare-0.8.9.1-mc1.21.1-133758c1.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/superbwarfare-0.8.9.1-mc1.21.1-133758c1.jar",
+      "sha1": "3da2e499ad1e0e25382c6073638c07c277ffa47d"
     },
     {
       "file": "tfmg-1.2.0.jar",
