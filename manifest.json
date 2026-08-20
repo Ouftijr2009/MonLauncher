@@ -1,6 +1,6 @@
 {
   "minecraft_version": "1.21.1",
-  "neoforge_version": "21.1.235",
+  "neoforge_version": "21.1.100",
   "mods": [
     {
       "file": "aeroadditionbridge-1.0.0.jar",
@@ -11,6 +11,11 @@
       "file": "aerocopycats-1.1.1.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/aerocopycats-1.1.1.jar",
       "sha1": "3a93862421d0a8cdae1e3a3d7f0d4bd01e049007"
+    },
+    {
+      "file": "aerowarfare_compat-1.15.0.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/aerowarfare_compat-1.15.0.jar",
+      "sha1": "c81a693128d41487bd89cba2d88beed2fdd5eacc"
     },
     {
       "file": "better_lib-neoforge-1.21.1-1.0.109.jar",
@@ -148,11 +153,6 @@
       "sha1": "9c4fb483428e3486d71a5c35e230463d20e87024"
     },
     {
-      "file": "Essential_1-4-0-3_neoforge_1-21-1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Essential_1-4-0-3_neoforge_1-21-1.jar",
-      "sha1": "a74eef48c07f39c117f2126407791f459add9190"
-    },
-    {
       "file": "geckolib-neoforge-1.21.1-4.9.2.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/geckolib-neoforge-1.21.1-4.9.2.jar",
       "sha1": "14c64013cadee7d28f3685f94350f9a4d2ec6d86"
@@ -188,11 +188,6 @@
       "sha1": "d228f81fb8d9f9501f0077bcbe6b62852eccf0a1"
     },
     {
-      "file": "pointblank-neoforge-1.21-1.11.1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/pointblank-neoforge-1.21-1.11.1.jar",
-      "sha1": "58570698e839acec1ad9a9778802dac8550d49ce"
-    },
-    {
       "file": "prone_was_pressed-1.0.0-neoforge-1.21.1.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/prone_was_pressed-1.0.0-neoforge-1.21.1.jar",
       "sha1": "684be42d92dc90a5848d04fc685cc890485c1ff2"
@@ -216,6 +211,16 @@
       "file": "sable-neoforge-1.21.1-2.0.3.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/sable-neoforge-1.21.1-2.0.3.jar",
       "sha1": "f3ba9a497122ba29d9e94ebe6f9a3a3aaa5fa756"
+    },
+    {
+      "file": "skinrestorer-2.10.0+26.1-forge.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/skinrestorer-2.10.0+26.1-forge.jar",
+      "sha1": "af0f0c6820da9627778b26ac4cb9bbf318b2e39d"
+    },
+    {
+      "file": "superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar",
+      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/superbwarfare-0.8.9.1-hotfix-mc1.20.1-993063bed-all.jar",
+      "sha1": "cd143b04ea8245243624c720ddd482c3aea0521e"
     },
     {
       "file": "tfmg-1.2.0.jar",
