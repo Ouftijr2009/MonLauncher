@@ -13,11 +13,6 @@
       "sha1": "3a93862421d0a8cdae1e3a3d7f0d4bd01e049007"
     },
     {
-      "file": "aerowarfare_compat-1.15.0.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/aerowarfare_compat-1.15.0.jar",
-      "sha1": "c81a693128d41487bd89cba2d88beed2fdd5eacc"
-    },
-    {
       "file": "better_lib-neoforge-1.21.1-1.0.109.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/better_lib-neoforge-1.21.1-1.0.109.jar",
       "sha1": "8437f2f2f8292752af3ccae1bf6526db1ed87b8b"
@@ -221,11 +216,6 @@
       "file": "skinrestorer-2.10.0+1.21-neoforge.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/skinrestorer-2.10.0+1.21-neoforge.jar",
       "sha1": "ea72bb25debbfc74b9486cb9d0fcb814ee5c6323"
-    },
-    {
-      "file": "superbwarfare-0.8.9.1-mc1.21.1-133758c1.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/superbwarfare-0.8.9.1-mc1.21.1-133758c1.jar",
-      "sha1": "3da2e499ad1e0e25382c6073638c07c277ffa47d"
     },
     {
       "file": "tfmg-1.2.0.jar",
