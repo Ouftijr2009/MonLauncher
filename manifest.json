@@ -1,6 +1,6 @@
 {
   "minecraft_version": "1.21.1",
-  "neoforge_version": "21.1.235",
+  "neoforge_version": "21.1.100",
   "mods": [
     {
       "file": "aeroadditionbridge-1.0.0.jar",
@@ -131,11 +131,6 @@
       "file": "Design-n-Decor-1.21.1-2.2b.jar",
       "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/Design-n-Decor-1.21.1-2.2b.jar",
       "sha1": "ff5f0411a3d82e15d69b65617128f6d54e818e1b"
-    },
-    {
-      "file": "DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-      "url": "https://raw.githubusercontent.com/Ouftijr2009/MonLauncher/main/mods/DistantHorizons-3.2.0-b-1.21.1-fabric-neoforge.jar",
-      "sha1": "df25e8cfe06917963778723a1d9a60610dd21bec"
     },
     {
       "file": "drivebywire-0.3.0.jar",
